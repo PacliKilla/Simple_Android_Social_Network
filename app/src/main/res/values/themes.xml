@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.ChatX" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#23557D</item>
+        <item name="colorPrimaryVariant">#74E3DF</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#23557D</item>
+        <item name="colorSecondaryVariant">@color/yellow</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">#23557D</item>
+        <!-- Customize your theme here. -->
+    </style>
+    <!-- Here you can add color of your choice  -->
+    <color name="ucrop_color_toolbar">#23557D</color>
+    <color name="ucrop_color_statusbar">#23557D</color>
+    <color name="ucrop_color_widget_active">#23557D</color>
+</resources>

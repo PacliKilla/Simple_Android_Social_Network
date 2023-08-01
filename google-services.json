@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "575809680902",
+    "firebase_url": "https://socialnetwork-cdabe-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "socialnetwork-cdabe",
+    "storage_bucket": "socialnetwork-cdabe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575809680902:android:0182cd0a7581da336fb587",
+        "android_client_info": {
+          "package_name": "com.avinash.chatx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575809680902-5kqkhkndsfppu1rra4bdp3bv9fi0ahpt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ0jJz9JkO5x93v_dJOM9TrVqmIgICtDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575809680902-5kqkhkndsfppu1rra4bdp3bv9fi0ahpt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
